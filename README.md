@@ -2,7 +2,7 @@
                                     
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sachin79/kali-linux/blob/main/BlackOuT.ipyn)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Ganesh-o9/Samael)
 
 ## Deploy To Heroku
 
